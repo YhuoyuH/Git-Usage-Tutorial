@@ -12,7 +12,7 @@
 git clone "Your repository's url"
 ```
 
-<img src="C:\Users\YhuoyuH\AppData\Roaming\Typora\typora-user-images\image-20240510171325727.png" alt="image-20240510171325727" style="zoom:100%;" />
+![](https://imgur.com/si55Kxj.jpg)
 
 ### 1.2 更新仓库文件
 
